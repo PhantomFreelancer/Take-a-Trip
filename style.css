@@ -30,7 +30,16 @@ body {
 html {
     font-size: 90%;
 }
-
+.whatsapp{
+    font-size: 30px;
+    position: fixed;
+    right: 39px;
+    bottom: 19px;
+    
+}
+.whatsapp a i{
+    font-size: 50px;
+}
 section {
     padding: 0 8rem;
     width: 100%;
